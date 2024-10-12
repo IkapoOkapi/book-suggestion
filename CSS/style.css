@@ -29,8 +29,15 @@ body {
   font-style: normal;
 }
 
+.pinyon-script-regular {
+  font-family: "Pinyon Script", "cursive";
+  font-weight: 400;
+  font-style: normal;
+}
+
+
   
-p,h5 {
+p,h1,h2,h3,h4,h5,li {
 
   font-family: "Anuphan", sans-serif;
   font-optical-sizing: auto;
